@@ -1,6 +1,6 @@
 apply plugin: 'java-library'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.Lvluffy'
+group = 'com.github.gititcp'
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
